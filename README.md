@@ -66,18 +66,11 @@ We use the **Cardiovascular Disease Dataset** from Kaggle.
 
 ## 📁 Project Structure
 
-```text
+
 heart-disease-risk-prediction/
 │
 ├── dataset/
 │   └── cardiovascular.csv
 │
 ├── notebooks/
-│   └── heart_disease_prediction.ipynb
-│
-├── presentation/
-│   └── presentation.pptx
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
+   └── heart_disease_prediction.ipynb
